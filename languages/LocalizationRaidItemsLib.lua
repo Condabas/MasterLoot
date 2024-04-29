@@ -105,6 +105,7 @@ if ( GetLocale() == "frFR" ) then
 		"Elemental Earth",
 		"Elemental Fire",
 		"Essence of Fire",
+		"Essence of Earth",
 		"Heart of Fire",
 		"Blood of the Mountain",
 		"Elementium Ore",
